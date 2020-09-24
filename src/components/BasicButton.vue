@@ -22,6 +22,7 @@ $text-secondary: #2d4cc8;
 button {
   display: flex;
   align-items: center;
+  justify-content: center;
   font-size: 2rem;
   padding: 1rem 1.5rem;
   color: $text-secondary;

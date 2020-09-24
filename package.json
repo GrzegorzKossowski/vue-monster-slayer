@@ -1,5 +1,6 @@
 {
   "name": "vue-monster-slayer",
+  "homepage": "https://grzegorzkossowski.github.io/vue-monster-slayer",
   "version": "0.1.0",
   "private": true,
   "scripts": {

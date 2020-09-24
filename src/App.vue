@@ -39,6 +39,12 @@ body {
   color: $text-primary;
 }
 
+input[type="text"], input[type="text"]:active {
+  background-image: none;
+  background-color: transparent;
+  outline: none;
+}
+
 button {
   outline: none;
   background: #e6e7ee;
