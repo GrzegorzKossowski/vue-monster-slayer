@@ -2,6 +2,13 @@
 
 See [online version](https://grzegorzkossowski.github.io/vue-monster-slayer/).
 
+![Monster Slayer](https://github.com/GrzegorzKossowski/vue-monster-slayer/blob/dev/msg01.jpg)
+
+![Monster Slayer](https://github.com/GrzegorzKossowski/vue-monster-slayer/blob/dev/msg02.jpg)
+
+![Monster Slayer](https://github.com/GrzegorzKossowski/vue-monster-slayer/blob/dev/msg03.jpg)
+
+
 ## Project setup
 
 ```
